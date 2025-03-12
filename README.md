@@ -28,4 +28,4 @@ I'm a Computer Engineering student at Wrocław University of Science and Technol
 - **Professional:** Cybersecurity, UI design, graphics, scripting
 - **Personal:** Musicals, slasher films, board games, RPG games
 
-Feel free to reach out if you want to collaborate or just have a chat!
+Feel free to hit me up if you want to collaborate or just have a chat!
