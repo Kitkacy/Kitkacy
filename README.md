@@ -20,8 +20,8 @@ I'm a Computer Engineering student at Wrocław University of Science and Technol
 
 ### Languages
 
-- 🇵🇱 (ojczysty) 
-- 🇬🇧 (płynny)
+- 🇵🇱 Native 
+- 🇬🇧 Fluent
 
 
 ### Interests
