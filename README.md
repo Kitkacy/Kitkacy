@@ -15,7 +15,7 @@ I'm a Computer Engineering student at Wrocław University of Science and Technol
 
 ### Tools
 
-  <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png width="20" height="20"   /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="20" height="20"  />    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"  width="20" height="20" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="20" height="20"   />
+  <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png width="30" height="30"   /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="30" height="30"  />    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"  width="30" height="30" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="30" height="30"   />
 
 ### Languages
 
