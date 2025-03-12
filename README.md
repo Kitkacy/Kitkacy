@@ -4,29 +4,24 @@ I'm a Computer Engineering student at Wrocław University of Science and Technol
 
 ### Skills
 - **General:** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/functionalprogramming.svg" width="20" height="20" style="color:white;" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/artificialintelligence.svg" width="20" height="20" style="color:white;" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" width="20" height="20" style="color:white;" />
+  <img src="https://simpleicons.org/?modal=icon&q=cplusplus" width="20" height="20"  /> 
+  <img src="https://simpleicons.org/?modal=icon&q=cplusplus" width="20" height="20"  /> 
+  <img src="https://simpleicons.org/?modal=icon&q=cplusplus" width="20" height="20"  />
 - **Advanced:** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" width="20" height="20" style="color:white;" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" width="20" height="20" style="color:white;" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" width="20" height="20" style="color:white;" />
+  <img src="https://simpleicons.org/?modal=icon&q=c" width="20" height="20"  /> 
+  <img src="https://simpleicons.org/?modal=icon&q=cplusplus" width="20" height="20"  /> 
+  <img src="https://simpleicons.org/?modal=icon&q=python" width="20" height="20"  />
 - **Intermediate:** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gnubash.svg" width="20" height="20" style="color:white;" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" width="20" height="20" style="color:white;" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" width="20" height="20" style="color:white;" />
+  <img src="https://simpleicons.org/?modal=icon&q=gnubash" width="20" height="20"  /> 
+  <img src="https://simpleicons.org/?modal=icon&q=html5" width="20" height="20"  /> 
+  <img src="https://simpleicons.org/?modal=icon&q=css" width="20" height="20"  />
 - **Tools:** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" width="20" height="20" style="color:white;" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" width="20" height="20" style="color:white;" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/wireshark.svg" width="20" height="20" style="color:white;" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" width="20" height="20" style="color:white;" />
-- **Languages:** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/polish.svg" width="20" height="20" style="color:white;" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/english.svg" width="20" height="20" style="color:white;" />
-- **Personal:** 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/accuracy.svg" width="20" height="20" style="color:white;" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/quicklearning.svg" width="20" height="20" style="color:white;" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/commitment.svg" width="20" height="20" style="color:white;" />
+  <img src="https://simpleicons.org/?modal=icon&q=gitdoc" width="20" height="20"  /> 
+  <img src="https://simpleicons.org/?modal=icon&q=docker" width="20" height="20"  /> 
+  <img src="https://simpleicons.org/?modal=icon&q=wireshark" width="20" height="20"  /> 
+  <img src="https://simpleicons.org/?modal=icon&q=figma" width="20" height="20"  />
+- **Languages:** 🇵🇱 (ojczysty) 🇬🇧 (płynny)
+- **Personal:** Accuracy, quick learning, commitment
 
 ### Interests
 - **Professional:** Cybersecurity, UI design, graphics, scripting
