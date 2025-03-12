@@ -12,7 +12,8 @@ I'm a Computer Engineering student at Wrocław University of Science and Technol
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"   /> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"   /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"   />
-
+- **Learning:**
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"\>
 ### Tools
 
   <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png width="30" height="30"   /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="30" height="30"  />    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"  width="30" height="30" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="30" height="30"   />
