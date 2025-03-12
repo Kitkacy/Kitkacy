@@ -2,11 +2,8 @@
 
 I'm a Computer Engineering student at Wrocław University of Science and Technology, currently pursuing my Bachelor's degree. Here's a bit about me:
 
-### Skills
-- **General:** 
-  <img src="https://simpleicons.org/?modal=icon&q=cplusplus"   /> 
-  <img src="https://simpleicons.org/?modal=icon&q=cplusplus"   /> 
-  <img src="https://simpleicons.org/?modal=icon&q=cplusplus"   />
+### Languages
+
 - **Advanced:** 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"   /> 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"   /> 
@@ -15,13 +12,19 @@ I'm a Computer Engineering student at Wrocław University of Science and Technol
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"   /> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"   /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"   />
-- **Tools:** 
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"   /> 
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"   /> 
-  <img src="https://simpleicons.org/?modal=icon&q=wireshark"   /> 
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png"   />
-- **Languages:** 🇵🇱 (ojczysty) 🇬🇧 (płynny)
-- **Personal:** Accuracy, quick learning, commitment
+
+### Tools
+
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="20" height="20"  /> 
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"  width="20" height="20" /> 
+  <img src="https://simpleicons.org/?modal=icon&q=wireshark" width="20" height="20"  /> 
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="20" height="20"   />
+
+### Languages
+
+- 🇵🇱 (ojczysty) 
+- 🇬🇧 (płynny)
+
 
 ### Interests
 - **Professional:** Cybersecurity, UI design, graphics, scripting
