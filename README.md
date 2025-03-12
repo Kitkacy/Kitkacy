@@ -1,4 +1,4 @@
-## Hi there, i'm Vincent 👋
+## Howdy, I'm Vincent 👋
 
 I'm a Computer Engineering student at Wrocław University of Science and Technology, currently pursuing my Bachelor's degree. Here's a bit about me:
 
