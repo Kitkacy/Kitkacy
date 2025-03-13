@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at Wrocław University of Science and Technology, currently pursuing my Bachelor's degree. Here's a bit about me:
 
-### Languages
+### Programing languages
 
 - **Advanced:** 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"   /> 
