@@ -11,4 +11,4 @@ Unix enjoyer.
 </div>
 
 ### My website:
-[![Visit My Funky Website](🌈_Visit_My_Site-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://www.wincenty.me)
+[![Visit My Website](https://img.shields.io/badge/🌈_Visit_My_Site-FF69B4?style=for-the-badge&logo=globe&logoColor=white&labelColor=000000)](https://www.wincenty.me)
