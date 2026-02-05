@@ -10,5 +10,5 @@ Unix enjoyer.
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
 </div>
 
-# My website:
-[![Visit My Funky Website](https://img.shields.io/badge/🌈_Visit_My_Site-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://www.wincenty.me)
+### My website:
+[![Visit My Funky Website](🌈_Visit_My_Site-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://www.wincenty.me)
