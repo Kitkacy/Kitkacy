@@ -49,6 +49,8 @@
 <br>
 
 [![Visit My Website](https://img.shields.io/badge/Visit_My_Site-f99d09?style=for-the-badge&logo=globe&logoColor=white&labelColor=000000)](https://www.wincenty.me)
+[![Visit Solvro](https://img.shields.io/badge/Visit_Solvro-0971f9?style=for-the-badge&logo=globe&logoColor=white&labelColor=000000)](https://solvro.pwr.edu.pl/en/)
+[![Visit SAPH](https://img.shields.io/badge/Visit_SAPH-8109f9?style=for-the-badge&logo=globe&logoColor=white&labelColor=000000)](https://www.saph.su)
 
 <br>
 
