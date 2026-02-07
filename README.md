@@ -45,6 +45,7 @@
 -> Curently doing my Master's degree.<br>
 -> Part-time designer, passionate miniature painter.<br>
 -> I love tinkering with open-source tools and making games run on thigs they were not supposed to.
+-> Part of Eventownik team at **Solvro**.
 
 <br>
 
